@@ -1,0 +1,49 @@
+{
+  "results": [
+    {
+      "check": "Direct file:// launch with zero network dependencies",
+      "result": "pass"
+    },
+    {
+      "check": "Only game controls, canvas and status are visible",
+      "result": "pass"
+    },
+    {
+      "check": "Default board pixel-identical to unmodified upstream",
+      "result": "pass"
+    },
+    {
+      "check": "Safe first click, flood reveal and digits match upstream pixels",
+      "result": "pass"
+    },
+    {
+      "check": "Right-click flag and rendering match upstream",
+      "result": "pass"
+    },
+    {
+      "check": "Undo and redo restore the exact previous board",
+      "result": "pass"
+    },
+    {
+      "check": "Restart board is pixel-identical and undoable like upstream",
+      "result": "pass"
+    },
+    {
+      "check": "Original solver and end-state feedback",
+      "result": "pass"
+    },
+    {
+      "check": "Mine explosion and undo from loss",
+      "result": "pass"
+    },
+    {
+      "check": "Preferences, game ID, save-file export, original tiling presets",
+      "result": "pass"
+    },
+    {
+      "check": "Mobile tap, long-press flag, high-DPI and viewport fit",
+      "result": "pass"
+    }
+  ],
+  "page_errors": []
+}

@@ -1,0 +1,8 @@
+{
+  "upstream_version": "20260923.616da16",
+  "upstream_url": "https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/mines.html",
+  "mines_js_sha256": "f57c608b553106d2fd077b3a78c3689b6b0238f4e27dbbf0304126abb3c4fbcc",
+  "mines_wasm_sha256": "f1aecafedc47d2b14558134642536241b93379a7357b67d29eb31989260b3182",
+  "offline_html_sha256": "2d6b8b12b809dbaf7479ecf641d42036f98df74db46be568d9597907fcffb50d",
+  "external_runtime_dependencies": []
+}
